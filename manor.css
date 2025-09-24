@@ -1,0 +1,162 @@
+@media (min-width: 992px) and (max-width: 1100px) {
+.image-7 {
+    width: 148px;
+        height: 174px;
+    top: 6%;
+    left: 3%;
+}
+.image-8 {
+    width: 148px;
+        height: 174px;
+    top: 4%;
+    right: 2%;
+}
+.image-9 {
+    width: 148px;
+        height: 174px;
+    left: 4%;
+}
+.image-10 {
+    width: 148px;
+        height: 174px;
+    right: 7%;
+}
+.subtitle.section-subtitle {
+    font-size: 44px;
+}
+.subtitle.section-subtitle.dp-heading {
+    width: 64%;
+}
+ .subtitle.project-subtitle.services-paragraph.dp-subtitle {
+    width: 56%;
+}
+.image-4 {
+    height: 468px;
+}
+.project-item-card {
+    grid-template-columns: 3fr 2fr;
+}
+.hero-heading.signature-headline {
+    font-size: 32px;
+}
+.content-left {
+    width: 460px;
+}
+.testimonial-body {
+    min-width: 150%;
+}
+.content-right {
+    grid-column-gap: 32px;
+}
+.blog-image {
+    height: 354px;
+}
+.client-name {
+    font-size: 20px;
+}
+.cell-3 {
+    padding-left: 70px;
+}
+.cell-2 {
+    padding-left: 90px;
+}
+.parallax {
+    background-attachment: fixed !important;
+}
+.header-image {
+    width: 334px;
+    height: 412px;
+    position: absolute;
+    inset: 26% 0% 0% 34%;
+}
+.heading {
+    font-size: 148px;
+}
+
+.header-image {
+    inset: 21% 0% 0% 33%;
+}
+.header-image.about-header-image {
+    top: 26%;
+}
+.team-wrapper {
+    grid-column-gap: 20px;
+}
+.expert-image {
+    height: 298px;
+}
+.subtitle.section-subtitle.is-who-we-are {
+    width: 84%;
+}
+.our-description.is-2 {
+    width: 248px;
+    inset: 128% 0% 0% 12%;
+}
+.img-5 {
+    width: 164px;
+    height: 194px;
+    margin-top: 48px;
+}
+.team-detail {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.subtitle.team-header {
+    width: 80%;
+}
+.w-layout-blockcontainer {
+    max-width: 100%;
+}
+
+.all-blogs .w-layout-blockcontainer {
+    max-width: 90%;
+}
+
+.w-layout-blockcontainer.services-wrapper {
+    max-width: 90%;
+}
+ .w-layout-blockcontainer.contact-container {
+   max-width: 90%;
+}
+.image-12 {
+    height: 560px;
+}
+.short-description {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.service-image-2 {
+    width: 554px;
+    height: 412px;
+}
+.service-image-1 {
+    width: 348px;
+    height: 300px;
+}
+.service-image-wrapper {
+    height: 412px;
+}
+.service-image-4 {
+    width: 554px;
+    height: 412px;
+}
+.service-image-3 {
+    width: 348px;
+    height: 300px;
+}
+.services-wrapper .section-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.form-block {
+    height: 798px;
+}
+.form {
+    height: 798px;
+}
+.subtitle.contact-checkbox, .subtitle.info-contact {
+    font-size: 16px;
+}
+  
+}
