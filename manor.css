@@ -1,3 +1,6 @@
+.parallax {
+    background-attachment: fixed !important;
+}
 @media (min-width: 992px) and (max-width: 1100px) {
 .image-7 {
     width: 148px;
@@ -59,9 +62,6 @@
 }
 .cell-2 {
     padding-left: 90px;
-}
-.parallax {
-    background-attachment: fixed !important;
 }
 .header-image {
     width: 334px;
