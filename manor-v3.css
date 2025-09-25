@@ -1,6 +1,9 @@
 .parallax {
     background-attachment: fixed !important;
 }
+html.w-mod-touch .parallax {
+    background-attachment: fixed !important;
+}
 @media (min-width: 992px) and (max-width: 1100px) {
 .image-7 {
     width: 148px;
