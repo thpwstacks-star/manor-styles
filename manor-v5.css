@@ -139,9 +139,6 @@ html.w-mod-touch .parallax {
 .subtitle.contact-checkbox, .subtitle.info-contact {
     font-size: 16px;
 }
-
-
-    
 .projects-image {
     height: 480px;
 }
@@ -179,13 +176,8 @@ html.w-mod-touch .parallax {
 .project-title.post-title {
     font-size: 32px;
 }
+.section-header.philosophy-heading {
+    width: 70%;
+}
 
-
-
-
-
-
-    
-
-    
 }
