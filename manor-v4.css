@@ -5,28 +5,6 @@ html.w-mod-touch .parallax {
     background-attachment: fixed !important;
 }
 @media (min-width: 992px) and (max-width: 1100px) {
-.image-7 {
-    width: 148px;
-        height: 174px;
-    top: 6%;
-    left: 3%;
-}
-.image-8 {
-    width: 148px;
-        height: 174px;
-    top: 4%;
-    right: 2%;
-}
-.image-9 {
-    width: 148px;
-        height: 174px;
-    left: 4%;
-}
-.image-10 {
-    width: 148px;
-        height: 174px;
-    right: 7%;
-}
 .subtitle.section-subtitle {
     font-size: 44px;
 }
@@ -161,5 +139,53 @@ html.w-mod-touch .parallax {
 .subtitle.contact-checkbox, .subtitle.info-contact {
     font-size: 16px;
 }
-  
+
+
+    
+.projects-image {
+    height: 480px;
+}
+.section-header {
+    width: 75%;
+}
+.project-title.service-title {
+    font-size: 32px;
+}
+.dp-img-1 {
+    width: 148px;
+        height: 174px;
+    top: 6%;
+    left: 3%;
+}
+.dp-img-2 {
+    width: 148px;
+        height: 174px;
+    top: 4%;
+    right: 2%;
+}
+.dp-img-3 {
+    width: 148px;
+        height: 174px;
+    left: 4%;
+}
+.dp-img-4 {
+    width: 148px;
+        height: 174px;
+    right: 7%;
+}
+.about {
+    width: 90%;
+}
+.project-title.post-title {
+    font-size: 32px;
+}
+
+
+
+
+
+
+    
+
+    
 }
