@@ -191,6 +191,8 @@ html.w-mod-touch .parallax {
 .project-title {
     font-size: 36px;
 }
-
+.contact-header .header-image {
+    inset: 36% 0% 0% 50%;
+}
     
 }
