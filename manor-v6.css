@@ -58,7 +58,7 @@ html.w-mod-touch .parallax {
     inset: 21% 0% 0% 50%;
 }
 .header-image.about-header-image {
-    top: 26%;
+    top: 30%;
 }
 .team-wrapper {
     grid-column-gap: 20px;
@@ -177,6 +177,15 @@ html.w-mod-touch .parallax {
     font-size: 32px;
 }
 .section-header.philosophy-heading {
+    width: 70%;
+}
+.section-header.about-heading {
+    width: 90%;
+}
+.section-header.blog-quote {
+    width: 101%;
+}
+.subtitle.section-title.dp-heading {
     width: 70%;
 }
 
